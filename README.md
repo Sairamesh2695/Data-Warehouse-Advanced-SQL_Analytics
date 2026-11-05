@@ -1,6 +1,5 @@
-# 🏢 Data Warehouse and Advanced SQL Analytics  
-**Consulting and Analytics Club, IIT Guwahati**  
-📅 2025 | 👤 Kotnala Samuel Rathnakar 
+# 🏢 Data Warehouse and Advanced SQL Analytics   
+📅 2026 | 👤 Pisupati Sai Ramesh Kumar 
 
 ---
 
